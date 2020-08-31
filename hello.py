@@ -1,1 +1,1 @@
-print("hello12asdf34")
+print("my name mas`")
