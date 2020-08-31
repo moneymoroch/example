@@ -1,1 +1,1 @@
-print("my name mas`")
+print("my name mike")
